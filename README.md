@@ -7,7 +7,7 @@
 
 By providing an organized index, `Project Indexer` enhances the LLM's understanding from the outset. When combined with a **well-structured design document** containing patterns and examples, it facilitates **efficient onboarding** for new tasks or ongoing development in an active codebase.
 
-It works with C#, becuse thats what i use, so the Regex is set for this, but changing the Regex should enable you to Work with other programing files. 
+It works with C#, because thats what i use, so the Regex is set for this, but changing the Regex should enable you to Work with other programming files. 
 
 ## Why Use ProjectIndexer?
 
